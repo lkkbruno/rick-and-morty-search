@@ -15,8 +15,12 @@ Um projeto simples de busca, apenas como exemplo da utilização da Rick and Mor
 
 ## Rodar o projeto
 ```zsh
+- Para instalar as dependências
 > npm install
+- Para rodar o projeto
 > npm start
+- Para executar os testes
+> npm test
 ```
 
 Após alguns seguindos o [localhost:3000](http://localhost:3000/) deverá estar rodando
