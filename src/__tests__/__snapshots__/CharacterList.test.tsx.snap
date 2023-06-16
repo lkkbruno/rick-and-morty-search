@@ -1,0 +1,76 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CharacterList should match snapshot 1`] = `
+<div>
+  <ul
+    class="sc-gsFSXq eQVcDd"
+  >
+    <li
+      class="sc-gEvEer cpkkRY"
+    >
+      <img
+        alt="Rick Sanchez"
+        class="sc-eqUAAy cQJqLn"
+        src="https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+      />
+      <div
+        class="sc-fqkvVR bFKHFo"
+      >
+        <h2
+          class="sc-dcJsrY kWDMGg"
+        >
+          Rick Sanchez
+        </h2>
+        <p
+          class="sc-iGgWBj hNqgHF"
+        >
+          Gender: Male
+        </p>
+        <p
+          class="sc-iGgWBj hNqgHF"
+        >
+          Status: Alive
+        </p>
+        <p
+          class="sc-iGgWBj hNqgHF"
+        >
+          Species: Human
+        </p>
+      </div>
+    </li>
+    <li
+      class="sc-gEvEer cpkkRY"
+    >
+      <img
+        alt="Morty Smith"
+        class="sc-eqUAAy cQJqLn"
+        src="https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+      />
+      <div
+        class="sc-fqkvVR bFKHFo"
+      >
+        <h2
+          class="sc-dcJsrY kWDMGg"
+        >
+          Morty Smith
+        </h2>
+        <p
+          class="sc-iGgWBj hNqgHF"
+        >
+          Gender: Male
+        </p>
+        <p
+          class="sc-iGgWBj hNqgHF"
+        >
+          Status: Alive
+        </p>
+        <p
+          class="sc-iGgWBj hNqgHF"
+        >
+          Species: Human
+        </p>
+      </div>
+    </li>
+  </ul>
+</div>
+`;

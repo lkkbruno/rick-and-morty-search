@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CharacterList should match snapshot 1`] = `
+<div>
+  <div>
+    <header
+      class="sc-kAyceB jNtZQo"
+    >
+      <img
+        alt="Rick and Morty"
+        class="sc-imWYAI jivJFB"
+        src=""
+      />
+      <input
+        class="sc-jXbUNg gwzMty"
+        data-testid="search-input"
+        placeholder="Search characters by name"
+        type="text"
+        value=""
+      />
+    </header>
+    <ul
+      class="sc-gsFSXq eQVcDd"
+    />
+  </div>
+</div>
+`;
+
+exports[`CharacterList should render a list of characters 1`] = `
+<div>
+  <div>
+    <header
+      class="sc-kAyceB jNtZQo"
+    >
+      <img
+        alt="Rick and Morty"
+        class="sc-imWYAI jivJFB"
+        src=""
+      />
+      <input
+        class="sc-jXbUNg gwzMty"
+        data-testid="search-input"
+        placeholder="Search characters by name"
+        type="text"
+        value=""
+      />
+    </header>
+    <ul
+      class="sc-gsFSXq eQVcDd"
+    />
+  </div>
+</div>
+`;

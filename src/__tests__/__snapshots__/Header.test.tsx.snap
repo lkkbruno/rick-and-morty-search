@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header should match snapshot 1`] = `
+<div>
+  <header
+    class="sc-aXZVg fymyJh"
+  >
+    <img
+      alt="Rick and Morty"
+      class="sc-gEvEer jLCWPF"
+      src=""
+    />
+    <input
+      class="sc-eqUAAy lbFcbm"
+      data-testid="search-input"
+      placeholder="Search characters by name"
+      type="text"
+      value=""
+    />
+  </header>
+</div>
+`;
